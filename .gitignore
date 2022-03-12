@@ -3,6 +3,7 @@ lyrics/*
 twitter/*
 .DS_Store
 *api_keys.py
+*.zip
 
 
 # Byte-compiled / optimized / DLL files
