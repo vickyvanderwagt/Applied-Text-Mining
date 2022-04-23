@@ -4,7 +4,9 @@ twitter/*
 .DS_Store
 *api_keys.py
 *.zip
-
+Lyrics Scrape.ipynb
+Twitter API.ipynb
+Assignment 1 Evaluation.ipynb	
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
