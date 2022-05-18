@@ -2,7 +2,7 @@
 lyrics/*
 twitter/*
 .DS_Store
-*api_keys.py
+*api_keys*.py
 *.zip
 Lyrics Scrape.ipynb
 Twitter API.ipynb
