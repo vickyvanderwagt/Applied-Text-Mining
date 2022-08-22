@@ -19,3 +19,4 @@ Assignment Materials:
 Deliverables:
 * When you have finished your code, print both of your notebooks as PDFs and upload these documents to Blackboard. 
 * Commit your code and push the changes to GitHub so your instructor has access to the ipynb notebook files and any other code you create. 
+* Note: this assignment is complete when you have pulled at least 100,000 followers for both of your artists. 
