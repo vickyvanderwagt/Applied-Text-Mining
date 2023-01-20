@@ -11,7 +11,9 @@ Instructions:
     * The second part of the file holds starting code for the second half of the assignment. Follow the instructions in that notebook, pulling and storing the lyrics for both artists.
     * The final part of the notebook holds evaluation code for the first two parts. If you’ve completed the assignment correctly, you should be able to just run this section as is. 
 
-Note: Storing API keys in repositories is not recommended. An example .py file is posted to Blackboard. 
+**Things to leave out of your repo**
+1. Storing API keys in repositories is not recommended. An example .py file is posted to Blackboard. We strongly recommend that you do _not_ include API keys in your repoository.
+2. Do not include the raw data in the repository. The `.gitignore` file is set-up ignore the `lyrics/` folder and the `twitter-data/` folder. Git attempts to track every character change in every committed file, so committing a large data file and then making any modification to it can resultin a repository that is large and hard to work with. 
 
 Assignment Materials:
 * [API and Web Scraping Repository](https://github.com/37chandler/ads-tm-api-scrape)
