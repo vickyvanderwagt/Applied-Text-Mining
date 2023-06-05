@@ -12,13 +12,13 @@ Instructions:
     * The final part of the notebook holds evaluation code for the first two parts. If you’ve completed the assignment correctly, you should be able to just run this section as is. 
 
 **Things to leave out of your repo**
-1. Storing API keys in repositories is not recommended. An example .py file is posted to Blackboard. We strongly recommend that you do _not_ include API keys in your repoository.
+1. Storing API keys in repositories is not recommended. An example .py file is posted to Canvas. We strongly recommend that you do _not_ include API keys in your repoository.
 2. Do not include the raw data in the repository. The `.gitignore` file is set-up ignore the `lyrics/` folder and the `twitter-data/` folder. Git attempts to track every character change in every committed file, so committing a large data file and then making any modification to it can resultin a repository that is large and hard to work with. 
 
 Assignment Materials:
 * [API and Web Scraping Repository](https://github.com/37chandler/ads-tm-api-scrape)
 
 Deliverables:
-* When you have finished your code, print both of your notebooks as PDFs and upload these documents to Blackboard. 
+* When you have finished your code, print both of your notebooks as PDFs and upload these documents to Canvas. 
 * Commit your code and push the changes to GitHub so your instructor has access to the ipynb notebook files and any other code you create. 
 * Note: this assignment is complete when you have pulled at least 100,000 followers for both of your artists. 
