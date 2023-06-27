@@ -17,6 +17,6 @@ Assignment Materials:
 * [API and Web Scraping Repository](https://github.com/37chandler/ads-tm-api-scrape)
 
 Deliverables:
-* When you have finished your code, print your notebook as PDFs and upload these documents to Blackboard. 
+* When you have finished your code, print your notebook as PDFs and upload these documents to Canvas. 
 * Commit your code and push the changes to GitHub so your instructor has access to the ipynb notebook files and any other code you create. 
 
