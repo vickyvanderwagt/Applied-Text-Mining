@@ -1,4 +1,5 @@
 ## Applied Text Mining Assignments
+
 These files are assignments from the Applied Text Mining Class (ADS09) at the University of San Diego
 ----------------
 
