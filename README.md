@@ -1,6 +1,5 @@
 ## Applied Text Mining Assignments
-### These files are assignments from the Applied Text Mining Class (ADS09) at the University of San Diego
-### Assignment templates were taken from https://github.com/37chandler 
+These files are assignments from the Applied Text Mining Class (ADS09) at the University of San Diego
 ----------------
 
 Assignment1 | lyrics_scrape 
